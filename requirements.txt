@@ -1,0 +1,26 @@
+# Dépendances pour le scraping Promobile
+selenium==4.15.2
+webdriver-manager==4.0.1
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Analyse de données
+pandas==2.1.3
+numpy==1.25.2
+
+# Analyse de sentiment
+textblob==0.17.1
+nltk==3.8.1
+vaderSentiment==3.3.2
+
+# Interface Streamlit (pour plus tard)
+streamlit==1.28.1
+plotly==5.17.0
+
+# Utilitaires
+python-dateutil==2.8.2
+schedule==1.2.0
+python-dotenv==1.0.0
+
+# Gestion des erreurs et logs
+loguru==0.7.2
